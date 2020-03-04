@@ -1,0 +1,11 @@
+C:\Users\divanovski\source\repos\HomeworkUniversity\HomeworkUniversity\bin\Debug\netcoreapp3.1\HomeworkUniversity.exe
+C:\Users\divanovski\source\repos\HomeworkUniversity\HomeworkUniversity\bin\Debug\netcoreapp3.1\HomeworkUniversity.deps.json
+C:\Users\divanovski\source\repos\HomeworkUniversity\HomeworkUniversity\bin\Debug\netcoreapp3.1\HomeworkUniversity.runtimeconfig.json
+C:\Users\divanovski\source\repos\HomeworkUniversity\HomeworkUniversity\bin\Debug\netcoreapp3.1\HomeworkUniversity.runtimeconfig.dev.json
+C:\Users\divanovski\source\repos\HomeworkUniversity\HomeworkUniversity\bin\Debug\netcoreapp3.1\HomeworkUniversity.dll
+C:\Users\divanovski\source\repos\HomeworkUniversity\HomeworkUniversity\bin\Debug\netcoreapp3.1\HomeworkUniversity.pdb
+C:\Users\divanovski\source\repos\HomeworkUniversity\HomeworkUniversity\obj\Debug\netcoreapp3.1\HomeworkUniversity.AssemblyInfoInputs.cache
+C:\Users\divanovski\source\repos\HomeworkUniversity\HomeworkUniversity\obj\Debug\netcoreapp3.1\HomeworkUniversity.AssemblyInfo.cs
+C:\Users\divanovski\source\repos\HomeworkUniversity\HomeworkUniversity\obj\Debug\netcoreapp3.1\HomeworkUniversity.dll
+C:\Users\divanovski\source\repos\HomeworkUniversity\HomeworkUniversity\obj\Debug\netcoreapp3.1\HomeworkUniversity.pdb
+C:\Users\divanovski\source\repos\HomeworkUniversity\HomeworkUniversity\obj\Debug\netcoreapp3.1\HomeworkUniversity.csprojAssemblyReference.cache
